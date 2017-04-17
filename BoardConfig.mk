@@ -17,6 +17,8 @@ include device/cyanogen/msm8916-common/BoardConfigCommon.mk
 
 include device/yu/tomato/board/*.mk
 
+HAS_DEVICE_CAM := true
+
 # Assertions
 TARGET_BOARD_INFO_FILE := device/yu/tomato/board-info.txt
 
