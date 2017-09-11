@@ -4,7 +4,7 @@ PRODUCT_PACKAGES += \
     camera.device@3.2-impl \
     camera.msm8916 \
     libmm-qcamera \
-    Snap
+    Camera2
 
 # Permissions
 PRODUCT_COPY_FILES += \
